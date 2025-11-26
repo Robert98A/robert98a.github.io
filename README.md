@@ -1,11 +1,11 @@
-# 📊 Data Analytics Portfolio — Robert Amartisoaeei
+# Data Analytics Portfolio — Robert Amartisoaeei
 
 Welcome to my professional data analytics portfolio.  
 Here I present selected case studies and analytical work that demonstrate my skills in transforming data into actionable insights.
 
 ---
 
-## 👤 About Me
+## About Me
 
 I am an electrical engineer transitioned into data analytics, with hands-on experience testing and validating telecommunications equipment and monitoring network performance.  
 I am currently strengthening my analytics skills through the **Google Data Analytics Certificate**, focusing on **SQL, R, spreadsheets, and Tableau**.
@@ -19,7 +19,7 @@ I aim to apply these strengths in data-driven roles where clear, reliable insigh
 
 ---
 
-## 🧰 Skills
+## Skills
 
 **Analytics & Tools**
 - SQL (data extraction, filtering, joins, aggregations)
@@ -40,7 +40,7 @@ I aim to apply these strengths in data-driven roles where clear, reliable insigh
 
 ---
 
-## 📁 Case Studies
+## Case Studies
 
 ### 1. Cyclistic Bike-Share Analysis (Google Data Analytics Capstone)
 
@@ -56,21 +56,21 @@ SQL, R / spreadsheets, Tableau
 - Compared usage patterns by user type, weekday/weekend, and ride length
 - Produced recommendations for targeted marketing campaigns
 
-📄 **[Read the full case study](Case_Studies/Cyclistic/Cyclistic_Case_Study.md)**
+ **[Read the full case study](Case_Studies/Cyclistic/Cyclistic_Case_Study.md)**
 
 *(More case studies will be added as I complete new projects.)*
 
 ---
 
-## 📄 Resume
+##  Resume
 
 You can view or download my full resume here:
 
-📎 **[Robert Amartișoaiei — CV (PDF)](Robert_Amartisoaei_CV.pdf)**
+ **[Robert Amartișoaiei — CV (PDF)](Robert_Amartisoaei_CV.pdf)**
 
 ---
 
-## 📬 Contact
+##  Contact
 
 - **Location:** Timisoara, Romania  
 - **Email:** robert.amartisoaei@hotmail.com  
