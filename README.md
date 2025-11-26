@@ -1,49 +1,78 @@
-# Data Analytics Portfolio — Robert
+# 📊 Data Analytics Portfolio — Robert Amartisoaeei
 
 Welcome to my professional data analytics portfolio.  
-Here I present selected case studies, analyses, and technical work demonstrating my skills in transforming data into actionable insights.
+Here I present selected case studies and analytical work that demonstrate my skills in transforming data into actionable insights.
 
 ---
 
-## About Me
-I am a data analyst with a strong foundation in data cleaning, exploratory analysis, visualization, and business insights.  
-My work focuses on solving real business problems using SQL, R, Python, spreadsheets, and visualization tools.
+## 👤 About Me
 
-I approach each project with a professional mindset: clear business understanding, clean methodology, and concise communication.
+I am an electrical engineer transitioned into data analytics, with hands-on experience testing and validating telecommunications equipment and monitoring network performance.  
+I am currently strengthening my analytics skills through the **Google Data Analytics Certificate**, focusing on **SQL, R, spreadsheets, and Tableau**.
 
----
+My background gives me:
+- A strong technical foundation (electronics, telecommunications, signal processing)
+- Experience working with complex systems and measurements
+- A structured, methodical approach to problem-solving
 
-## Skills
-- **Analysis:** SQL, R, Python, Excel/Sheets  
-- **Visualization:** Tableau, ggplot2, R Markdown  
-- **Data Handling:** Cleaning, transformation, joining, validation  
-- **Business Insight:** Problem framing, KPI analysis, stakeholder-oriented reporting  
+I aim to apply these strengths in data-driven roles where clear, reliable insights support business decisions.
 
 ---
 
-## Case Studies
+## 🧰 Skills
 
-### **1️⃣ Cyclistic Bike-Share Analysis (Google Data Analytics Capstone)**
-_Professional analysis of rider behavior for marketing decision-making._
+**Analytics & Tools**
+- SQL (data extraction, filtering, joins, aggregations)
+- R (data cleaning, transformation, basic statistics)
+- Spreadsheets (Excel / Google Sheets, pivot tables, functions)
+- Tableau (dashboards and visualizations)
 
-- **Goal:** Determine how casual riders and annual members use bikes differently  
-- **Tools:** SQL, R, Spreadsheet  
-- **Deliverables:** Data cleaning, analysis, visualizations, 3 recommendations  
-- **[View the full case study (Markdown)](Case_Studies/Cyclistic/Cyclistic_Case_Study.md)**
+**Technical Background**
+- Electronics & telecommunications
+- Test and validation of telecom hardware
+- Network traffic monitoring and performance testing :contentReference[oaicite:2]{index=2}  
+
+**Professional Skills**
+- Analytical thinking & attention to detail
+- Clear, structured documentation
+- Working in cross-functional and fast-paced environments
+- Communicating findings to non-technical stakeholders
 
 ---
 
-## Resume
-You may view or download my resume here:  
- `CV`
+## 📁 Case Studies
+
+### 1. Cyclistic Bike-Share Analysis (Google Data Analytics Capstone)
+
+**Goal:**  
+Understand how **casual riders** and **annual members** use Cyclistic bikes differently, and propose data-driven recommendations to convert casual riders into members.
+
+**Tools:**  
+SQL, R / spreadsheets, Tableau
+
+**Highlights:**
+- Cleaned and combined 12 months of trip data
+- Created ride duration and weekday features
+- Compared usage patterns by user type, weekday/weekend, and ride length
+- Produced recommendations for targeted marketing campaigns
+
+📄 **[Read the full case study](Case_Studies/Cyclistic/Cyclistic_Case_Study.md)**
+
+*(More case studies will be added as I complete new projects.)*
 
 ---
 
-## Contact
+## 📄 Resume
+
+You can view or download my full resume here:
+
+📎 **[Robert Amartișoaiei — CV (PDF)](Robert_Amartisoaei_CV.pdf)**
+
+---
+
+## 📬 Contact
+
+- **Location:** Timisoara, Romania  
 - **Email:** robert.amartisoaei@hotmail.com  
+- **GitHub:** https://github.com/robert98a  
 - **LinkedIn:** https://www.linkedin.com/in/robert-a-lnkdn98/
-- **GitHub:** https://github.com/robert98a
-
----
-
-Thank you for reviewing my portfolio.
