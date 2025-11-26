@@ -1,4 +1,4 @@
-# Data Analytics Portfolio — Robert Amartisoaeei
+# Data Analytics Portfolio — Robert Amartisoaei
 
 Welcome to my professional data analytics portfolio.  
 Here I present selected case studies and analytical work that demonstrate my skills in transforming data into actionable insights.
