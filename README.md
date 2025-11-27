@@ -8,7 +8,7 @@ Here I present selected case studies and analytical work that demonstrate my ski
 ## About Me
 
 I am an electrical engineer transitioned into data analytics, with hands-on experience testing and validating telecommunications equipment and monitoring network performance.  
-I am currently strengthening my analytics skills through the **Google Data Analytics Certificate**, focusing on **SQL, R, spreadsheets, and Tableau**.
+I am strenghtened my analytics skills by graduating the **Google Data Analytics Certificate**, focusing on **SQL, R, spreadsheets, and Tableau**.
 
 My background gives me:
 - A strong technical foundation (electronics, telecommunications, signal processing)
