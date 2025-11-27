@@ -30,7 +30,7 @@ I aim to apply these strengths in data-driven roles where clear, reliable insigh
 **Technical Background**
 - Electronics & telecommunications
 - Test and validation of telecom hardware
-- Network traffic monitoring and performance testing :contentReference[oaicite:2]{index=2}  
+- Network traffic monitoring and performance testing
 
 **Professional Skills**
 - Analytical thinking & attention to detail
