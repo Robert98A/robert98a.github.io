@@ -62,6 +62,12 @@ SQL, R / spreadsheets, Tableau
 
 ---
 
+## Certificate
+
+You can view or download my certificate here:
+
+**[Robert Amartisoaei - Data Analytics Certificate](https://coursera.org/share/b74f5f0ca78efa58531cd79c3c097b75)**
+
 ##  Resume
 
 You can view or download my full resume here:
