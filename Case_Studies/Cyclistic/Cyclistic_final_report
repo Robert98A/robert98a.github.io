@@ -1,18 +1,18 @@
-# Cyclistic Bike-Share Analysis  
-Google Data Analytics Capstone Project
+# Cyclistic bike-share analysis  
+Google data analytics capstone project
 
-## 1. Business Task
+## 1. Business task
 
 Determine how annual members and casual riders use Cyclistic bikes differently. The purpose is to support the marketing team in designing strategies that encourage casual riders to convert into annual members.
 
-## 2. Data Source
+## 2. Data source
 
 The analysis uses 12 months of public trip data from the Cyclistic (Divvy) bike-share system.  
 Each file contains ride IDs, timestamps, station names, bike types, and rider types.  
 Personal identifiers have been removed to protect privacy.  
 The data is appropriate because it directly records how each user type interacts with the system.
 
-## 3. Data Cleaning and Preparation
+## 3. Data cleaning and preparation
 
 Tools used: SQL and R.
 
@@ -37,13 +37,13 @@ The cleaned dataset was then used for exploration and analysis.
 - Casual rider usage increases significantly in warmer months.
 - Annual members show more consistent usage across the whole year.
 
-### Observed Patterns
+### Observed patterns
 - Members appear to use the system primarily for transportation and commuting.
 - Casual riders appear to use the system mainly for leisure and tourism.
 - Ride length is a strong differentiator between the two groups.
 - Weekday vs. weekend behavior is distinct and consistent across months.
 
-## 5. Key Findings
+## 5. Key findings
 
 1. Casual riders take longer rides than members, indicating more leisure-focused usage.  
 2. Members ride more often during weekdays, matching commuting patterns.  
@@ -59,7 +59,7 @@ The cleaned dataset was then used for exploration and analysis.
 
 These recommendations directly follow from the observed behavioral differences between rider types.
 
-## 7. Tools Used
+## 7. Tools used
 
 SQL for aggregation and filtering.  
 R and spreadsheets for data cleaning, transformation, and summary statistics.  
