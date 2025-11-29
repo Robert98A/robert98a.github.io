@@ -57,6 +57,7 @@ SQL, R / spreadsheets, Tableau
 - Produced recommendations for targeted marketing campaigns
 
  **[Read the full case study (PDF)](Case_Studies/Cyclistic/Cyclistic_final_report.pdf)**
+ 
  **[Read the full case study (MD)](Case_Studies/Cyclistic/Cyclistic_final_report)**
 
 *(More case studies will be added as I complete new projects.)*
