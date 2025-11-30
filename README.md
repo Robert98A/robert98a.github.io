@@ -3,6 +3,8 @@
 Welcome to my professional data analytics portfolio.  
 Here I present selected case studies and analytical work that demonstrate my skills in transforming data into actionable insights.
 
+All scripts used for cleaning, transformation, and analysis are organized by language inside the Scripts folder. SQL files contain the queries used for merging, filtering, and summarizing data. R scripts include data cleaning, feature engineering, and exploratory analysis. Notes are included to document assumptions, data quality checks, and intermediate observations. This structure improves transparency and makes the project easy to review.
+
 ---
 
 ## About Me
