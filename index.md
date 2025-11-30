@@ -29,3 +29,4 @@ Robert_Amartisoaei_CV.pdf
 
 Email: robert.amartisoaei@hotmail.com  
 GitHub: github.com/robert98a
+LinkedIn: https://www.linkedin.com/in/robert-a-lnkdn98/
