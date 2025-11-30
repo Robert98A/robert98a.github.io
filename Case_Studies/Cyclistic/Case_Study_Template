@@ -1,0 +1,34 @@
+# [Project Title]
+
+## 1. Business Task
+Clearly describe the question or problem the project addresses and why it is important.
+
+## 2. Data Source
+Provide a short description of the dataset:
+- Source and licensing
+- Structure and size
+- Relevant fields
+- Why the dataset is appropriate for the problem
+
+## 3. Data Cleaning and Preparation
+Document the main steps taken to clean and prepare the data:
+- Removing duplicates
+- Handling missing values
+- Standardizing formats
+- Creating new variables
+- Filtering out invalid records
+- Tools used (SQL, R, spreadsheets, etc.)
+
+## 4. Analysis
+Describe the methods used to explore and analyze the data:
+- Key metrics
+- Comparisons
+- Trends
+- Visualizations
+- Code or queries used (summaries only, full scripts can be included in an appendix)
+
+## 5. Key Findings
+Summarize the most important insights discovered in the analysis.
+
+## 6. Recommendations
+Provide recommendations based on the findings. These should be practical, realistic, and connected directly to the insights.
