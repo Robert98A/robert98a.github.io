@@ -12,7 +12,9 @@ This website presents selected data analytics projects completed by Robert Amart
 ### Cyclistic bike-share analysis
 An analysis of how annual members and casual riders use the Cyclistic bike-share system.  
 The goal is to support marketing decisions aimed at increasing annual memberships.  
-Link: Case_Studies/Cyclistic/Cyclistic_Case_Study.md
+Links:  
+  **[Read the full case study (PDF)](Case_Studies/Cyclistic/Cyclistic_final_report.pdf)**  
+  **[Read the full case study (MD)](Case_Studies/Cyclistic/Cyclistic_Final_Study.md)**
 
 More case studies will be added as new projects are completed.
 
