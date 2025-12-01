@@ -75,7 +75,7 @@ You can view or download my certificate here:
 
 You can view or download my full resume here:
 
- **[Robert Amartișoaiei — CV (PDF)](Robert_Amartisoaei_CV_DA.pdf)**
+ **[Robert Amartișoaiei — CV (PDF)](Robert_Amartisoaei_CV.pdf)**
 
 ---
 
@@ -83,5 +83,5 @@ You can view or download my full resume here:
 
 - **Location:** Timisoara, Romania  
 - **Email:** robert.amartisoaei@hotmail.com  
-- **GitHub:** https://github.com/robert98a  
-- **LinkedIn:** https://www.linkedin.com/in/robert-a-lnkdn98/
+- **GitHub:** [robert98a](https://github.com/robert98a)  
+- **LinkedIn:** [robert-a-lnkdn98](https://www.linkedin.com/in/robert-a-lnkdn98/)
