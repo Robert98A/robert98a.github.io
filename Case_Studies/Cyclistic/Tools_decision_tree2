@@ -1,1 +1,21 @@
+```mermaid
+flowchart TD
 
+A["What do I need to do with the data?"] --> B{"Is the dataset large or stored in tables?"}
+B -->|Yes| SQL1["Use SQL<br/>Reason: Best for large datasets"]
+B -->|No| C{"Do I need to filter, join, or aggregate data?"}
+
+C -->|Yes| SQL2["Use SQL<br/>Reason: Efficient for filtering and joining"]
+C -->|No| D{"Do I need multi-step cleaning or new variables?"}
+
+D -->|Yes| R1["Use R<br/>Reason: Flexible for cleaning and transformations"]
+D -->|No| E{"Do I need to manually inspect or validate data?"}
+
+E -->|Yes| EXCEL1["Use Excel/Sheets<br/>Reason: Simple and visual for quick checks"]
+E -->|No| F{"Do I need statistical exploration or deeper analysis?"}
+
+F -->|Yes| R2["Use R<br/>Reason: Statistical and exploratory analysis"]
+F -->|No| G{"Do I need visuals or dashboards?"}
+
+G -->|Yes| TBL1["Use Tableau<br/>Reason: Clear visuals and dashboards"]
+G -->|No| R3["Use R<br/>Reason: Custom plots or final adjustments"]
