@@ -69,7 +69,7 @@ SQL, R / spreadsheets, Tableau
 
 You can view or download my certificate here:
 
-**[Robert Amartisoaei - Data Analytics Certificate]((https://www.coursera.org/account/accomplishments/specialization/certificate/UYX53RG7IQ1W))**
+**[Robert Amartisoaei - Data Analytics Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/UYX53RG7IQ1W)**
 
 ##  Resume
 
