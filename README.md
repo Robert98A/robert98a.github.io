@@ -83,5 +83,5 @@ You can view or download my full resume here:
 
 - **Location:** Timisoara, Romania  
 - **Email:** robert.amartisoaei.98@gmail.com  
-- **GitHub:** [robert98a]([https://github.com/robert98a](https://github.com/Robert98A/robert98a.github.io))  
+- **GitHub:** [robert98a](https://github.com/robert98a)  
 - **LinkedIn:** [robert-a-lnkdn98](https://www.linkedin.com/in/robert-a-lnkdn98/)
