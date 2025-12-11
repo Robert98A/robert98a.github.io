@@ -2,12 +2,14 @@
 ### Data Analyst | System Test Technician
 
 **Location:** Timisoara, Romania
+
 **Contact:** [Email](mailto:robert.amartisoaei@hotmail.com) | [LinkedIn](https://www.linkedin.com/in/robert-a-lnkdn98/) | [GitHub Profile](https://github.com/robert98a)
+
 **Resume:** [Download PDF](Robert_Amartisoaei_CV.pdf)
 
 ---
 
-## Executive Summary
+## Summary
 
 I am a Data Analyst with a strong technical foundation in Electrical Engineering and professional experience as a System Test Technician. I combine the rigorous, methodical approach required for hardware validation and network monitoring with modern data science methodologies.
 
