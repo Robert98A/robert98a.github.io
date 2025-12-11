@@ -46,7 +46,7 @@ Analyze historical user data to identify behavioral differences between "casual"
 * **Recommendation:** Proposed a targeted digital marketing campaign focusing on weekend leisure riders, highlighting the cost-benefits of annual membership for frequent weekend use.
 
 **Project Links**
-* [**Read Full Report (PDF)**](Case_Studies/Cyclistic/Cyclistic_final_report.pdf)
+* [**Read Full Report (PDF)**](https://github.com/Robert98A/robert98a.github.io/blob/887d7c9e374f977610a0419ea3ec54fee4f4cd7c/Case_Studies/Cyclistic/Cyclistic_Final_Study.pdf)
 * [**View Analysis Summary (Markdown)**](Case_Studies/Cyclistic/Cyclistic_Final_Study.md)
 
 ---
