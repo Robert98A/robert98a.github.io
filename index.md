@@ -1,5 +1,5 @@
 # Robert Amartisoaei
-### Data Analyst | System Test Technician
+### System Test Technician | Data Analyst | System Test Technician
 
 **Location:** Timisoara, Romania
 
