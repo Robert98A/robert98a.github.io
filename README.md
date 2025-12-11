@@ -75,7 +75,7 @@ You can view or download my certificate here:
 
 You can view or download my full resume here:
 
- **[Robert Amartișoaiei — CV (PDF)](Robert_Amartisoaei_CV.pdf)**
+ **[Robert Amartisoaiei — CV (PDF)](Robert_Amartisoaei_CV.pdf)**
 
 ---
 
