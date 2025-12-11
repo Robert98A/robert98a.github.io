@@ -1,5 +1,5 @@
 # Robert Amartisoaei
-### Data Analyst | Electrical Engineer
+### Data Analyst | System Test Technician
 
 **Location:** Timisoara, Romania
 **Contact:** [Email](mailto:robert.amartisoaei@hotmail.com) | [LinkedIn](https://www.linkedin.com/in/robert-a-lnkdn98/) | [GitHub Profile](https://github.com/robert98a)
@@ -9,9 +9,9 @@
 
 ## Executive Summary
 
-I am an Electrical Engineer transitioning into Data Analytics, combining a rigorous technical background in telecommunications and signal processing with modern data science methodologies. My engineering experience has instilled a disciplined, structural approach to complex systems, which I leverage to transform raw data into reliable, actionable business insights.
+I am a Data Analyst with a strong technical foundation in Electrical Engineering and professional experience as a System Test Technician. I combine the rigorous, methodical approach required for hardware validation and network monitoring with modern data science methodologies.
 
-I have recently expanded my technical toolkit through the **Google Data Analytics Professional Certificate**, strengthening my proficiency in SQL, R, and Tableau to solve real-world business problems. I aim to bridge the gap between technical data complexity and strategic decision-making through clear analysis and documentation.
+My background involves hands-on experience in testing and validating telecommunications equipment, where precision and attention to detail are critical. I have recently expanded my skillset through the **Google Data Analytics Professional Certificate**, mastering SQL, R, and Tableau to transform complex datasets into clear, reliable business insights. I aim to apply this technical discipline to support data-driven decision-making.
 
 ---
 
@@ -21,8 +21,8 @@ I have recently expanded my technical toolkit through the **Google Data Analytic
 | :--- | :--- |
 | **Data Analysis & Processing** | **SQL** (Joins, Aggregations, Subqueries), **R** (Data Cleaning, Transformation, Statistical Analysis), **Excel** (Pivot Tables, Advanced Functions, Solver) |
 | **Visualization & Reporting** | **Tableau** (Dashboard Design, Storytelling), **Markdown** (Technical Documentation), **R Markdown** |
-| **Engineering Domain** | Signal Processing, Telecommunications Network Validation, Root Cause Analysis, Technical Hardware Testing |
-| **Soft Skills** | Cross-functional Communication, Structured Problem Solving, Project Documentation |
+| **Technical Background** | System Test & Validation, Telecommunications Equipment, Network Traffic Monitoring, Signal Processing Concepts |
+| **Soft Skills** | Analytical Thinking, Structured Problem Solving, Detailed Documentation, Cross-functional Communication |
 
 ---
 
