@@ -3,7 +3,7 @@
 
 **Location:** Timisoara, Romania
 
-**Contact:** [Email](mailto:robert.amartisoaei@hotmail.com) | [LinkedIn](https://www.linkedin.com/in/robert-a-lnkdn98/) | [GitHub Profile](https://github.com/robert98a)
+**Contact:** [Email](mailto:robert.amartisoaei.98@gmail.com) | [LinkedIn](https://www.linkedin.com/in/robert-a-lnkdn98/) | [GitHub Profile](https://github.com/robert98a)
 
 **Resume:** [Download PDF](Robert_Amartisoaei_CV.pdf)
 
