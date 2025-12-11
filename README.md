@@ -58,7 +58,7 @@ SQL, R / spreadsheets, Tableau
 - Compared usage patterns by user type, weekday/weekend, and ride length
 - Produced recommendations for targeted marketing campaigns
 
- **[Read the full case study (PDF)](Case_Studies/Cyclistic/Cyclistic_final_report.pdf)**  
+ **[Read the full case study (PDF)](https://github.com/Robert98A/robert98a.github.io/blob/887d7c9e374f977610a0419ea3ec54fee4f4cd7c/Case_Studies/Cyclistic/Cyclistic_Final_Study.pdf)**  
  **[Read the full case study (MD)](Case_Studies/Cyclistic/Cyclistic_Final_Study.md)**
 
 *(More case studies will be added as I complete new projects.)*
