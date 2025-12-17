@@ -1,87 +1,126 @@
 # Data Analytics Portfolio — Robert Amartisoaei
 
-Welcome to my professional data analytics portfolio.  
-Here I present selected case studies and analytical work that demonstrate my skills in transforming data into actionable insights.
+Welcome to my professional Data Analytics Portfolio.  
+This repository showcases selected case studies and analytical projects that demonstrate my ability to clean, analyze, and interpret data and translate findings into actionable business insights.
 
-All scripts used for cleaning, transformation, and analysis are organized by language inside the Scripts folder. SQL files contain the queries used for merging, filtering, and summarizing data. R scripts include data cleaning, feature engineering, and exploratory analysis. Notes are included to document assumptions, data quality checks, and intermediate observations. This structure improves transparency and makes the project easy to review.
+Each project follows a structured analytics workflow — Ask, Prepare, Process, Analyze, Share, and Act — and includes reproducible scripts, clear visualizations, and business-focused recommendations.
 
 ---
 
 ## About Me
 
-I am an electrical engineer transitioned into data analytics, with hands-on experience testing and validating telecommunications equipment and monitoring network performance.  
-I am strenghtened my analytics skills by graduating the **Google Data Analytics Certificate**, focusing on **SQL, R, spreadsheets, and Tableau**.
+I am an Electrical Engineer transitioned into Data Analytics, with hands-on experience in telecommunications testing, validation, and performance monitoring.
 
-My background gives me:
-- A strong technical foundation (electronics, telecommunications, signal processing)
-- Experience working with complex systems and measurements
-- A structured, methodical approach to problem-solving
+I strengthened my analytics skill set by completing the Google Data Analytics Professional Certificate, gaining practical experience with SQL, R, spreadsheets, and data visualization tools.
 
-I aim to apply these strengths in data-driven roles where clear, reliable insights support business decisions.
+My background enables me to:
+- Work confidently with complex technical systems and large datasets  
+- Apply a structured, methodical approach to problem-solving  
+- Translate technical findings into insights understandable by non-technical stakeholders  
+
+I am seeking opportunities where data-driven insights support strategic and operational decision-making.
 
 ---
 
 ## Skills
 
-**Analytics & Tools**
-- SQL (data extraction, filtering, joins, aggregations)
-- R (data cleaning, transformation, basic statistics)
-- Spreadsheets (Excel / Google Sheets, pivot tables, functions)
-- Tableau (dashboards and visualizations)
+### Analytics & Tools
+- SQL — data extraction, joins, filtering, aggregations  
+- R — data cleaning, transformation, exploratory analysis, visualization  
+- Spreadsheets — Excel / Google Sheets, pivot tables, formulas  
+- Tableau — dashboards and visual storytelling  
 
-**Technical Background**
-- Electronics & telecommunications
-- Test and validation of telecom hardware
-- Network traffic monitoring and performance testing
+### Technical Background
+- Electronics and telecommunications  
+- Test and validation of telecom hardware  
+- Network traffic monitoring and performance analysis  
 
-**Professional Skills**
-- Analytical thinking & attention to detail
-- Clear, structured documentation
-- Working in cross-functional and fast-paced environments
-- Communicating findings to non-technical stakeholders
+### Professional Strengths
+- Analytical thinking and attention to detail  
+- Clear, structured documentation  
+- Experience working in technical and cross-functional environments  
+- Communicating insights to business and non-technical audiences  
+
+---
+
+## Repository Structure
+
+Projects are organized following real-world analytics best practices to ensure transparency and reproducibility:
+
+- **data/** — raw, processed, and cleaned datasets  
+- **scripts/** — modular R and SQL scripts for setup, cleaning, analysis, and visualization  
+- **outputs/** — generated tables and figures  
+- **reports/** — final case study reports in R Markdown, HTML, and PDF formats  
 
 ---
 
 ## Case Studies
 
-### 1. Cyclistic Bike-Share Analysis (Google Data Analytics Capstone)
+### 1. Cyclistic Bike-Share Analysis  
+(Google Data Analytics Capstone Project)
 
-**Goal:**  
-Understand how **casual riders** and **annual members** use Cyclistic bikes differently, and propose data-driven recommendations to convert casual riders into members.
+**Business Objective**  
+Analyze how casual riders and annual members use Cyclistic bikes differently and propose strategies to convert casual riders into annual members.
 
-**Tools:**  
-SQL, R / spreadsheets, Tableau
+**Tools Used**  
+SQL, R, spreadsheets, Tableau
 
-**Highlights:**
-- Cleaned and combined 12 months of trip data
-- Created ride duration and weekday features
-- Compared usage patterns by user type, weekday/weekend, and ride length
-- Produced recommendations for targeted marketing campaigns
+**Key Highlights**
+- Cleaned and combined 12 months of bike trip data  
+- Created ride duration and weekday features  
+- Analyzed usage patterns by user type and time of week  
+- Delivered data-driven recommendations for targeted marketing campaigns  
 
- **[Read the full case study (PDF)](https://github.com/Robert98A/robert98a.github.io/blob/887d7c9e374f977610a0419ea3ec54fee4f4cd7c/Case_Studies/Cyclistic/Cyclistic_Final_Study.pdf)**  
- **[Read the full case study (MD)](Case_Studies/Cyclistic/Cyclistic_Final_Study.md)**
-
-*(More case studies will be added as I complete new projects.)*
-
----
-
-## Certificate
-
-You can view or download my certificate here:
-
-**[Robert Amartisoaei - Data Analytics Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/UYX53RG7IQ1W)**
-
-##  Resume
-
-You can view or download my full resume here:
-
- **[Robert Amartisoaiei — CV (PDF)](Robert_Amartisoaei_CV.pdf)**
+Read the full case study:  
+- PDF: https://github.com/Robert98A/robert98a.github.io/blob/887d7c9e374f977610a0419ea3ec54fee4f4cd7c/Case_Studies/Cyclistic/Cyclistic_Final_Study.pdf  
+- Markdown: Case_Studies/Cyclistic/Cyclistic_Final_Study.md  
 
 ---
 
-##  Contact
+### 2. Bellabeat Smart Device Usage Analysis  
+(Google Data Analytics Case Study 2)
 
-- **Location:** Timisoara, Romania  
-- **Email:** [robert.amartisoaei.98@gmail.com](mailto:robert.amartisoaei.98@gmail.com)
-- **GitHub:** [robert98a](https://github.com/robert98a)  
-- **LinkedIn:** [robert-a-lnkdn98](https://www.linkedin.com/in/robert-a-lnkdn98/)
+**Business Objective**  
+Analyze smart device usage data to identify behavioral trends and provide data-driven marketing and product recommendations for Bellabeat, a wellness technology company focused on women’s health.
+
+**Tools Used**  
+R, tidyverse, ggplot2, R Markdown
+
+**Key Highlights**
+- Cleaned and processed daily, hourly, and minute-level Fitbit data  
+- Analyzed activity levels, sedentary behavior, sleep patterns, and heart rate data  
+- Identified data quality gaps such as non-wear days and syncing issues  
+- Developed actionable recommendations for app features and marketing campaigns  
+
+**Key Insights**
+- Most users fall into sedentary or lightly active categories  
+- Step count strongly correlates with calories burned  
+- Many users do not consistently reach recommended sleep durations  
+- Sleep duration alone does not strongly predict next-day activity  
+
+Read the full Bellabeat case study:  
+- Report: reports/bellabeat_case_study.html  
+- Analysis scripts: scripts/  
+
+---
+
+## Certification
+
+Google Data Analytics Professional Certificate  
+https://www.coursera.org/account/accomplishments/specialization/certificate/UYX53RG7IQ1W
+
+---
+
+## Resume
+
+Download my resume (PDF):  
+Robert_Amartisoaei_CV.pdf
+
+---
+
+## Contact
+
+Location: Timisoara, Romania  
+Email: robert.amartisoaei.98@gmail.com  
+GitHub: https://github.com/robert98a  
+LinkedIn: https://www.linkedin.com/in/robert-a-lnkdn98/
