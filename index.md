@@ -1,5 +1,5 @@
 # Robert Amartisoaei  
-Data Analyst | Electrical Engineer
+System Test Technician | Junior Data Analyst | Electrical Engineer
 
 **Location:** Timișoara, Romania  
 **Email:** [robert.amartisoaei.98@gmail.com](mailto:robert.amartisoaei.98@gmail.com)  
