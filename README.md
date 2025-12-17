@@ -71,8 +71,8 @@ SQL, R, spreadsheets, Tableau
 - Analyzed usage patterns by user type and time of week  
 - Delivered data-driven recommendations for targeted marketing campaigns  
 
-Read the full case study:  
-- PDF: https://github.com/Robert98A/robert98a.github.io/blob/887d7c9e374f977610a0419ea3ec54fee4f4cd7c/Case_Studies/Cyclistic/Cyclistic_Final_Study.pdf  
+Read the full Cyclistic case study:  
+- Report: [PDF](https://github.com/Robert98A/robert98a.github.io/blob/220c47bfb0241349d55c3ba53b7326b38eac3c22/Case_Studies/Wellness%20Technology/reports/Bellabeat_final_analisys.pdf)  
 - Markdown: Case_Studies/Cyclistic/Cyclistic_Final_Study.md  
 
 ---
@@ -100,21 +100,22 @@ R, tidyverse, ggplot2, R Markdown
 
 Read the full Bellabeat case study:  
 - Report: [PDF](https://github.com/Robert98A/robert98a.github.io/blob/af0be55453640b0fbedde611880b0753a76a1c73/Case_Studies/Wellness%20Technology/reports/Bellabeat_final_analisys.pdf)
-- Analysis scripts: scripts/  
+- Analysis scripts: [Scripts](https://github.com/Robert98A/robert98a.github.io/tree/220c47bfb0241349d55c3ba53b7326b38eac3c22/Case_Studies/Wellness%20Technology/scripts)
 
 ---
 
 ## Certification
 
-Google Data Analytics Professional Certificate  
-https://www.coursera.org/account/accomplishments/specialization/certificate/UYX53RG7IQ1W
+You can view or download my certificate here:
+
+**[Robert Amartisoaei - Data Analytics Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/UYX53RG7IQ1W)**
 
 ---
 
 ## Resume
 
 Download my resume (PDF):  
-Robert_Amartisoaei_CV.pdf
+[Resume](https://github.com/Robert98A/robert98a.github.io/blob/220c47bfb0241349d55c3ba53b7326b38eac3c22/Robert_Amartisoaei_CV.pdf)
 
 ---
 
