@@ -71,8 +71,8 @@ SQL, R, spreadsheets, Tableau
 - Delivered data-driven recommendations for targeted marketing campaigns  
 
 Read the full Cyclistic case study:  
-- Report: [PDF](https://github.com/Robert98A/robert98a.github.io/blob/220c47bfb0241349d55c3ba53b7326b38eac3c22/Case_Studies/Wellness%20Technology/reports/Bellabeat_final_analisys.pdf)  
-- Markdown: [MD](https://github.com/Robert98A/robert98a.github.io/blob/743475e8b8359921570e8031b47ef3d43b9494aa/Case_Studies/Cyclistic/Cyclistic_Final_Study.md)
+- Report: [PDF](https://github.com/Robert98A/robert98a.github.io/blob/220c47bfb0241349d55c3ba53b7326b38eac3c22/Case_Studies/Wellness%20Technology/reports/Bellabeat_final_analisys.pdf) or [MD](https://github.com/Robert98A/robert98a.github.io/blob/dae98c4f4de505c376299e9c38199b0a09b3d653/Case_Studies/Cyclistic/Cyclistic_Final_Study.md)
+- Analysis scripts: [scripts](https://github.com/Robert98A/robert98a.github.io/tree/dae98c4f4de505c376299e9c38199b0a09b3d653/Case_Studies/Cyclistic/Scripts)
 
 ---
 
@@ -98,7 +98,7 @@ R, tidyverse, ggplot2, R Markdown
 
 Read the full Bellabeat case study:  
 - Report: [PDF](https://github.com/Robert98A/robert98a.github.io/blob/af0be55453640b0fbedde611880b0753a76a1c73/Case_Studies/Wellness%20Technology/reports/Bellabeat_final_analisys.pdf) or [MD](https://github.com/Robert98A/robert98a.github.io/blob/1065a2acb26be487542fe3e3e99286ac5a1e9bb6/Case_Studies/Wellness%20Technology/reports/Bellabeat_final_analysis.md)
-- Analysis scripts: [Scripts](https://github.com/Robert98A/robert98a.github.io/tree/220c47bfb0241349d55c3ba53b7326b38eac3c22/Case_Studies/Wellness%20Technology/scripts)
+- Analysis scripts: [scripts](https://github.com/Robert98A/robert98a.github.io/tree/220c47bfb0241349d55c3ba53b7326b38eac3c22/Case_Studies/Wellness%20Technology/scripts)
 
 ---
 
