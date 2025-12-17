@@ -97,7 +97,7 @@ R, tidyverse, ggplot2, R Markdown
 - Sleep duration alone does not strongly predict next-day activity  
 
 Read the full Bellabeat case study:  
-- Report: [PDF](https://github.com/Robert98A/robert98a.github.io/blob/af0be55453640b0fbedde611880b0753a76a1c73/Case_Studies/Wellness%20Technology/reports/Bellabeat_final_analisys.pdf)
+- Report: [PDF](https://github.com/Robert98A/robert98a.github.io/blob/af0be55453640b0fbedde611880b0753a76a1c73/Case_Studies/Wellness%20Technology/reports/Bellabeat_final_analisys.pdf) or [MD](https://github.com/Robert98A/robert98a.github.io/blob/1065a2acb26be487542fe3e3e99286ac5a1e9bb6/Case_Studies/Wellness%20Technology/reports/Bellabeat_final_analysis.md)
 - Analysis scripts: [Scripts](https://github.com/Robert98A/robert98a.github.io/tree/220c47bfb0241349d55c3ba53b7326b38eac3c22/Case_Studies/Wellness%20Technology/scripts)
 
 ---
