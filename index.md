@@ -1,73 +1,106 @@
-# Robert Amartisoaei
-### System Test Technician | Data Analyst | System Test Technician
+# Robert Amartisoaei  
+Data Analyst | Electrical Engineer
 
-**Location:** Timisoara, Romania
-
-**Contact:** [robert.amartisoaei.98@gmail.com](mailto:robert.amartisoaei.98@gmail.com) | [LinkedIn](https://www.linkedin.com/in/robert-a-lnkdn98/) | [GitHub Profile](https://github.com/robert98a)
-
+**Location:** Timișoara, Romania  
+**Email:** [robert.amartisoaei.98@gmail.com](mailto:robert.amartisoaei.98@gmail.com)  
+**LinkedIn:** https://www.linkedin.com/in/robert-a-lnkdn98/  
+**GitHub:** https://github.com/robert98a  
 **Resume:** [Download PDF](Robert_Amartisoaei_CV.pdf)
 
 ---
 
-## Summary
+## Professional Overview
 
-I am a Data Analyst with a strong technical foundation in Electrical Engineering and professional experience as a System Test Technician. I combine the rigorous, methodical approach required for hardware validation and network monitoring with modern data science methodologies.
+I am a **Data Analyst with an engineering background**, combining a strong foundation in **electrical engineering and telecommunications testing** with modern data analytics skills.
 
-My background involves hands-on experience in testing and validating telecommunications equipment, where precision and attention to detail are critical. I have recently expanded my skillset through the **Google Data Analytics Professional Certificate**, mastering SQL, R, and Tableau to transform complex datasets into clear, reliable business insights. I aim to apply this technical discipline to support data-driven decision-making.
+My professional experience includes **system testing, validation, and network performance monitoring**, where accuracy, consistency, and structured problem-solving are essential. I have transitioned these skills into data analytics, focusing on **cleaning, analyzing, and interpreting data to support business decisions**.
+
+I completed the **Google Data Analytics Professional Certificate**, gaining hands-on experience with **SQL, R, spreadsheets, and data visualization tools**. My approach emphasizes clarity, reproducibility, and actionable insights rather than purely technical output.
 
 ---
 
-## Technical Skills
+## Core Skills
 
-| Category | Competencies |
-| :--- | :--- |
-| **Data Analysis & Processing** | **SQL** (Joins, Aggregations, Subqueries), **R** (Data Cleaning, Transformation, Statistical Analysis), **Excel** (Pivot Tables, Advanced Functions, Solver) |
-| **Visualization & Reporting** | **Tableau** (Dashboard Design, Storytelling), **Markdown** (Technical Documentation), **R Markdown** |
-| **Technical Background** | System Test & Validation, Telecommunications Equipment, Network Traffic Monitoring, Signal Processing Concepts |
-| **Soft Skills** | Analytical Thinking, Structured Problem Solving, Detailed Documentation, Cross-functional Communication |
+### Data Analytics & Tools
+- **SQL** — joins, aggregations, filtering, subqueries  
+- **R** — data cleaning, transformation, exploratory analysis, visualization  
+- **Spreadsheets** — Excel / Google Sheets, pivot tables, formulas  
+- **Tableau** — dashboards and visual storytelling  
+
+### Technical Background
+- Electrical engineering and telecommunications  
+- System test and validation of hardware  
+- Network traffic monitoring and performance analysis  
+
+### Professional Strengths
+- Analytical and structured problem-solving  
+- Strong attention to detail and data quality  
+- Clear technical and non-technical communication  
+- Well-documented and reproducible workflows  
 
 ---
 
 ## Featured Case Studies
 
-### 1. Cyclistic Bike-Share Analysis
-**Project Type:** Google Data Analytics Capstone
+### Cyclistic Bike-Share Analysis  
+*Google Data Analytics Capstone Project*
 
-**The Challenge**
-Analyze historical user data to identify behavioral differences between "casual" riders and annual members. The objective was to design a data-driven marketing strategy to convert casual users into long-term subscribers.
+**Objective**  
+Analyze how casual riders and annual members use Cyclistic bikes differently in order to design strategies that increase membership conversion.
 
-**Methodology & Tools**
-* **SQL:** Merged and standardized 12 months of trip data, handling millions of records.
-* **R:** Performed data cleaning and feature engineering (created variables for ride duration and day-of-week analysis).
-* **Tableau:** Developed visualizations to highlight usage trends.
+**Approach**
+- Cleaned and combined 12 months of trip data  
+- Engineered features such as ride duration and weekday usage  
+- Analyzed behavioral differences by user type and time patterns  
 
-**Key Findings**
-* **Usage Patterns:** Casual riders predominately use the service on weekends for leisure, whereas annual members use the service consistently on weekdays for commuting.
-* **Recommendation:** Proposed a targeted digital marketing campaign focusing on weekend leisure riders, highlighting the cost-benefits of annual membership for frequent weekend use.
+**Key Insight**  
+Casual riders primarily use bikes for leisure on weekends, while members show consistent weekday commuting behavior.
 
-**Project Links**
-* [**Read Full Report (PDF)**](https://github.com/Robert98A/robert98a.github.io/blob/887d7c9e374f977610a0419ea3ec54fee4f4cd7c/Case_Studies/Cyclistic/Cyclistic_Final_Study.pdf)
-* [**View Analysis Summary (Markdown)**](Case_Studies/Cyclistic/Cyclistic_Final_Study.md)
+**Links**
+- [Full Report (PDF)](https://github.com/Robert98A/robert98a.github.io/blob/220c47bfb0241349d55c3ba53b7326b38eac3c22/Case_Studies/Cyclistic/Cyclistic_Final_Study.pdf)  
+- [Analysis Summary (Markdown)](Case_Studies/Cyclistic/Cyclistic_Final_Study.md)
+
+---
+
+### Bellabeat Smart Device Usage Analysis  
+*Google Data Analytics Case Study*
+
+**Objective**  
+Analyze smart device usage data to identify activity, sleep, and sedentary behavior patterns that can inform Bellabeat’s marketing and product strategy.
+
+**Approach**
+- Cleaned and processed daily, hourly, and minute-level Fitbit data  
+- Analyzed activity intensity, step counts, sleep duration, and heart rate  
+- Identified data quality gaps such as non-wear days and syncing issues  
+
+**Key Insight**  
+Most users are sedentary or lightly active, step count strongly correlates with calories burned, and sleep duration alone does not predict activity levels.
+
+**Links**
+- [Full Report (PDF)](https://github.com/Robert98A/robert98a.github.io/blob/af0be55453640b0fbedde611880b0753a76a1c73/Case_Studies/Wellness%20Technology/reports/Bellabeat_final_analisys.pdf)  
+- [Analysis Summary (Markdown)](https://github.com/Robert98A/robert98a.github.io/blob/1065a2acb26be487542fe3e3e99286ac5a1e9bb6/Case_Studies/Wellness%20Technology/reports/Bellabeat_final_analysis.md)
 
 ---
 
 ## Certifications
 
-**Google Data Analytics Professional Certificate** | *Coursera*
-* Comprehensive curriculum covering the data analysis life cycle: Ask, Prepare, Process, Analyze, Share, and Act.
-* [Verify Credential](https://www.coursera.org/account/accomplishments/specialization/certificate/UYX53RG7IQ1W)
+**Google Data Analytics Professional Certificate**  
+Coursera  
+[View Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/UYX53RG7IQ1W)
 
 ---
 
-## Repository Structure
+## Portfolio Structure
 
-To ensure transparency and reproducibility, the work in this repository is organized as follows:
+This portfolio follows real-world analytics best practices:
 
-* **`/Scripts`**: Contains all source code used for analysis.
-    * *SQL Files:* Queries used for data extraction, merging, and filtering.
-    * *R Scripts:* Code used for cleaning, transformation, and exploratory data analysis.
-* **`/Notes`**: Documentation regarding assumptions, data quality checks, and intermediate observations during the analysis process.
+- **data/** — raw, processed, and cleaned datasets  
+- **scripts/** — modular R and SQL scripts for setup, cleaning, analysis, and visualization  
+- **outputs/** — summary tables and figures  
+- **reports/** — final case study reports in Markdown, HTML, and PDF  
+
+This structure ensures transparency, reproducibility, and ease of review.
 
 ---
 
-[Return to Top](#robert-amartisoaei)
+[Back to top](#robert-amartisoaei)
