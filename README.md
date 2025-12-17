@@ -57,7 +57,6 @@ Projects are organized following real-world analytics best practices to ensure t
 ## Case Studies
 
 ### 1. Cyclistic Bike-Share Analysis  
-(Google Data Analytics Capstone Project)
 
 **Business Objective**  
 Analyze how casual riders and annual members use Cyclistic bikes differently and propose strategies to convert casual riders into annual members.
@@ -78,7 +77,6 @@ Read the full Cyclistic case study:
 ---
 
 ### 2. Bellabeat Smart Device Usage Analysis  
-(Google Data Analytics Case Study 2)
 
 **Business Objective**  
 Analyze smart device usage data to identify behavioral trends and provide data-driven marketing and product recommendations for Bellabeat, a wellness technology company focused on women’s health.
