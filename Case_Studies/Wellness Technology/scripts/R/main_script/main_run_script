@@ -1,1 +1,5 @@
-
+source("scripts/01_setup/01_packages.R")
+source("scripts/02_prepare/02_import_inspect.R")
+source("scripts/03_process/03_clean_transform.R")
+source("scripts/04_analysis/04_analysis_summary.R")
+source("scripts/05_visualization/05_visualizations.R")
