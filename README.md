@@ -73,7 +73,7 @@ SQL, R, spreadsheets, Tableau
 
 Read the full Cyclistic case study:  
 - Report: [PDF](https://github.com/Robert98A/robert98a.github.io/blob/220c47bfb0241349d55c3ba53b7326b38eac3c22/Case_Studies/Wellness%20Technology/reports/Bellabeat_final_analisys.pdf)  
-- Markdown: Case_Studies/Cyclistic/Cyclistic_Final_Study.md  
+- Markdown: [MD](https://github.com/Robert98A/robert98a.github.io/blob/743475e8b8359921570e8031b47ef3d43b9494aa/Case_Studies/Cyclistic/Cyclistic_Final_Study.md)
 
 ---
 
