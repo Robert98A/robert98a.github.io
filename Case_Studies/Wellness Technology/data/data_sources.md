@@ -16,7 +16,7 @@ Published by: Mobius
 Platform: Kaggle  
 
 Link:  
-[Kaggle source](https://www.kaggle.com/datasets/arashnic/fitbit)
+[FitBit Fitness Tracker Data](https://www.kaggle.com/datasets/arashnic/fitbit)
 
 ---
 
